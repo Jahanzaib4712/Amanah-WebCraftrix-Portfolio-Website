@@ -1,48 +1,48 @@
 export const SERVICES_LIST = [
   {
-    name: "UI/UX & Web Design",
+    name: "Blogging Web Design",
     tags: [
       "Figma",
-      "Wireframing",
+      "Blogging",
       "Prototyping",
       "Responsive Design",
       "User Testing",
     ],
-    img: "/images/abstract-1.png",
+    img: "/images/image1.png",
     url: "#",
     description:
-      "End-to-end digital design from wireframes to polished interfaces. We create intuitive, visually appealing experiences for websites and apps, backed by user research and iterative testing.",
+      "A modern blogging platform built with Next.js, TypeScript, Tailwind CSS, and Sanity.io. It delivers a clean, responsive UI with easy content management perfect for creators to showcase their blogs.",
   },
   {
-    name: "Brand Identity Design",
+    name: "Portfolio Identity Design",
     tags: [
-      "Logo Design",
+      "Portfolio Design",
       "Brand Guidelines",
       "Visual Identity",
       "Typography",
       "Color Theory",
     ],
-    img: "/images/abstract-2.png",
+    img: "/images/image2.png",
     url: "#",
     description:
-      "Comprehensive branding packages including logos, style guides, and asset kits. We craft cohesive visual identities that communicate your brand’s essence across all touchpoints.",
+      "A fully responsive portfolio built with Next.js, TypeScript, and Tailwind CSS. Showcases my skills, recent projects, and development background with a clean, modern UI.",
   },
   {
-    name: "SEO & Website Audits",
+    name: "Restaurant Web Design",
     tags: [
       "Technical SEO",
-      "Keyword Strategy",
+      "Business Strategy",
       "On-Page Optimization",
-      "Analytics",
+      "Restaurant Analytics",
       "Performance Tuning",
     ],
-    img: "/images/abstract-3.png",
+    img: "/images/image3.png",
     url: "#",
     description:
-      "Data-driven SEO audits and optimizations to improve rankings. We analyze technical health, content gaps, and backlink profiles to drive organic growth.",
+      "This is a modern, responsive burger restaurant website built using Next.js, TypeScript, and Tailwind CSS. The project is designed to offer a fast, scalable, and visually appealing user experience.",
   },
   {
-    name: "Social Media Marketing",
+    name: "Estate Web Design",
     tags: [
       "Meta Ads",
       "Instagram Reels",
@@ -50,9 +50,9 @@ export const SERVICES_LIST = [
       "Community Management",
       "Performance Tracking",
     ],
-    img: "/images/abstract-5.png",
+    img: "/images/image4.png",
     url: "#",
     description:
-      "Full-service social media management—from organic content creation to paid campaigns. We build engaging narratives and measurable strategies tailored to each platform.",
+      "This is a real estate website built using HTML, CSS, Next.js, and React components. The website allows users to browse, filter, and view property listings. It is fully responsive.",
   },
 ];

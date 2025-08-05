@@ -105,7 +105,7 @@ export default function HeroSection() {
                   as="h1"
                   className="mt-8 text-balance text-5xl md:text-7xl lg:mt-16 xl:text-[5.25rem] font-semibold"
                 >
-                  Designs That Captivate, Brands That Shine.
+                  From Ideas to Impact with Amanah in Every Pixel.
                 </TextEffect>
                 <TextEffect
                   per="line"
@@ -115,9 +115,7 @@ export default function HeroSection() {
                   as="p"
                   className="mx-auto mt-8 max-w-2xl text-balance text-lg"
                 >
-                  At Lume Studio, we blend creativity and strategy to craft
-                  stunning websites, striking visuals, and unforgettable brand
-                  experiences that set you apart.
+                  At Amanah WebCraftrix, we blend creativity, trust (Amanah), and purpose to craft meaningful websites, impactful visuals, and brand experiences — all with honesty and Barakah at the core.
                 </TextEffect>
 
                 <AnimatedGroup

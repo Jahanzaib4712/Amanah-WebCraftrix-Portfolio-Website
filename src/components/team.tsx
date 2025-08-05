@@ -5,37 +5,37 @@ import { ScrollView } from "./scroll-view";
 
 const members = [
   {
-    name: "Liam Brown",
+    name: "Shahzaib Nadeem",
     role: "Founder - CEO",
     avatar: "https://alt.tailus.io/images/team/member-one.webp",
     link: "#",
   },
   {
-    name: "Elijah Jones",
+    name: "Syeda Ayesha",
     role: "Co-Founder - CTO",
     avatar: "https://alt.tailus.io/images/team/member-two.webp",
     link: "#",
   },
   {
-    name: "Isabella Garcia",
+    name: "Musfira Junaid",
     role: "Sales Manager",
     avatar: "https://alt.tailus.io/images/team/member-three.webp",
     link: "#",
   },
   {
-    name: "Henry Lee",
+    name: "Maima Ali",
     role: "UX Engeneer",
     avatar: "https://alt.tailus.io/images/team/member-four.webp",
     link: "#",
   },
   {
-    name: "Ava Williams",
+    name: "Hammad Javed",
     role: "Interaction Designer",
     avatar: "https://alt.tailus.io/images/team/member-five.webp",
     link: "#",
   },
   {
-    name: "Olivia Miller",
+    name: "Zainab Yousuff",
     role: "Visual Designer",
     avatar: "https://alt.tailus.io/images/team/member-six.webp",
     link: "#",

@@ -14,9 +14,8 @@ export default function StatsSection() {
           </ScrollView>
           <ScrollView delay={0.2}>
             <p>
-              At Lume Studio, we don’t just make things look good — we create
-              thoughtful design experiences that help businesses grow, connect
-              with their audience, and stand out in a crowded digital world.
+              At Amanah WebCraftrix, we don’t just make things look good — we craft purposeful digital experiences that help brands grow with integrity, connect meaningfully with their audience, and stand out with trust in a crowded digital world.
+
             </p>
           </ScrollView>
         </div>
@@ -33,7 +32,7 @@ export default function StatsSection() {
               }}
               className="space-y-4"
             >
-              <div className="text-5xl font-bold">+120</div>
+              <div className="text-5xl font-bold">+12</div>
               <p>Projects Launched</p>
             </motion.div>
             <motion.div
@@ -61,7 +60,7 @@ export default function StatsSection() {
               }}
               className="space-y-4"
             >
-              <div className="text-5xl font-bold">5+</div>
+              <div className="text-5xl font-bold">1+</div>
               <p>Years in the Game</p>
             </motion.div>
           </div>

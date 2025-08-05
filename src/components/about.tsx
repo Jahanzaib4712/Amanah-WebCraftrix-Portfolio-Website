@@ -38,11 +38,8 @@ export default function ContentSection() {
           </ScrollView>
           <ScrollView>
             <p>
-              Lume Studio was born from a simple idea—great design should do
-              more than just look good; it should make an impact. What started
-              as a passion for creativity turned into a full-fledged design
-              agency dedicated to helping brands tell their stories, connect
-              with audiences, and stand out in a crowded world.
+              Amanah WebCraftrix was born from a simple idea — creativity should do more than just look good; it should serve a purpose with Amanah and Barakah.
+              What started as a passion for meaningful digital creation has grown into a full-fledged design and web agency. We are dedicated to helping brands tell their stories, connect with audiences authentically, and stand out with integrity in a crowded digital world.
             </p>
           </ScrollView>
         </div>
