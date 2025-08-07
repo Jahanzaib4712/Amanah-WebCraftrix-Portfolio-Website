@@ -46,7 +46,7 @@ export default function FooterSection() {
         <ScrollView delay={0.15} viewMargin="0px 0px -20px 0px">
           <div className="my-8 flex flex-wrap justify-center gap-6 text-sm">
             <Link
-              href="#"
+              href="https://x.com/WebAmanah"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="X/Twitter"
@@ -66,7 +66,7 @@ export default function FooterSection() {
               </svg>
             </Link>
             <Link
-              href="#"
+              href="https://www.linkedin.com/in/amanah-web-craftrix-6292a8347/?trk=opento_sprofile_topcard"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="LinkedIn"
@@ -86,7 +86,7 @@ export default function FooterSection() {
               </svg>
             </Link>
             <Link
-              href="#"
+              href="https://www.facebook.com/amanah.web.craftrix/"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="Facebook"
@@ -131,7 +131,7 @@ export default function FooterSection() {
               </svg>
             </Link>
             <Link
-              href="#"
+              href="https://www.instagram.com/amanahwebcraftrix/"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="Instagram"

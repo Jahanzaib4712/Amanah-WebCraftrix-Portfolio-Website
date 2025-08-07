@@ -10,7 +10,7 @@ export const PORTFOLIO_CONTENT = [
     name: "Starlight Prom Nights",
     description:
       "Vibrant promotional page for high school prom parties with ticket booking, photo galleries, and theme selection.",
-    img: "/images/portfolio/event.jpg",
+    img: "",
     url: "#",
   },
   {
