@@ -9,7 +9,7 @@ export const SERVICES_LIST = [
       "User Testing",
     ],
     img: "/images/image1.png",
-    url: "#",
+    url: "https://blog-website-sanity-next-js.vercel.app/",
     description:
       "A modern blogging platform built with Next.js, TypeScript, Tailwind CSS, and Sanity.io. It delivers a clean, responsive UI with easy content management perfect for creators to showcase their blogs.",
   },
@@ -23,7 +23,7 @@ export const SERVICES_LIST = [
       "Color Theory",
     ],
     img: "/images/image2.png",
-    url: "#",
+    url: "https://shahzaib-portfolio-website.vercel.app/",
     description:
       "A fully responsive portfolio built with Next.js, TypeScript, and Tailwind CSS. Showcases my skills, recent projects, and development background with a clean, modern UI.",
   },
@@ -37,7 +37,7 @@ export const SERVICES_LIST = [
       "Performance Tuning",
     ],
     img: "/images/image3.png",
-    url: "#",
+    url: "https://burger-landing-website-next-js.vercel.app/",
     description:
       "This is a modern, responsive burger restaurant website built using Next.js, TypeScript, and Tailwind CSS. The project is designed to offer a fast, scalable, and visually appealing user experience.",
   },
@@ -51,7 +51,7 @@ export const SERVICES_LIST = [
       "Performance Tracking",
     ],
     img: "/images/image4.png",
-    url: "#",
+    url: "https://real-estate-co-milestone2-assignmentt.vercel.app/",
     description:
       "This is a real estate website built using HTML, CSS, Next.js, and React components. The website allows users to browse, filter, and view property listings. It is fully responsive.",
   },
