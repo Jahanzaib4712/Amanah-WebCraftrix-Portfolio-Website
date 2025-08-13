@@ -17,8 +17,8 @@ const members = [
     link: "#",
   },
   {
-    name: "Musfira Junaid",
-    role: "Sales Manager | Member",
+    name: "Amna Rana",
+    role: "Web Developer | Member",
     avatar: "./images/musfira.jpg",
     link: "#",
   },
