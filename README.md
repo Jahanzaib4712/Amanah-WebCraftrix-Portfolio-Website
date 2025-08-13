@@ -1,4 +1,4 @@
-# Lume Studio - Next.js Template
+# Amanah WebCraftrix Portfolio - Next.js 
 
 This project is a Next.js template built with TypeScript, designed for creating stunning websites with smooth animations and modern UI components.
 
@@ -7,13 +7,13 @@ This project is a Next.js template built with TypeScript, designed for creating 
 1.  **Install dependencies:**
 
     ```bash
-    pnpm install
+    npm install
     ```
 
 2.  **Run the development server:**
 
     ```bash
-    pnpm dev
+    npm run dev
     ```
 
     Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
@@ -42,6 +42,4 @@ The `ScrollView` component is a utility component that triggers animations when 
 
 MIT
 
-## Full version
 
-For the full version, go to https://lume.kohi.studio/full-version
